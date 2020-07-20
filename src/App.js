@@ -132,12 +132,12 @@ function App() {
                 </div>
                 <br />
                 <div className="text-center">
-                    <div className="font-weight-bold section-heading text-uppercase my-3">会社名：DirectPicks株式会社​</div>
-                    <div className="font-weight-bold section-heading text-uppercase my-3">設立：2020年5月</div>
-                    <div className="font-weight-bold section-heading text-uppercase my-3">本社：神奈川県川崎市宮前区犬蔵2-32-2-323</div>
-                    <div className="font-weight-bold section-heading text-uppercase my-3">電話番号(固定)：044-975-6689</div>
-                    <div className="font-weight-bold section-heading text-uppercase my-3">Mobile：080-3010-1664</div>
-                    <div className="font-weight-bold section-heading text-uppercase my-3">Email：hiroki_maekawa@directpicks.co.jp</div>
+                    <h4 className="font-weight-bold section-heading text-uppercase my-3">会社名：DirectPicks株式会社​</h4>
+                    <h4 className="font-weight-bold section-heading text-uppercase my-3">設立：2020年5月</h4>
+                    <h4 className="font-weight-bold section-heading text-uppercase my-3">本社：神奈川県川崎市宮前区犬蔵2-32-2-323</h4>
+                    <h4 className="font-weight-bold section-heading text-uppercase my-3">電話番号(固定)：044-975-6689</h4>
+                    <h4 className="font-weight-bold section-heading text-uppercase my-3">Mobile：080-3010-1664</h4>
+                    <h4 className="font-weight-bold section-heading text-uppercase my-3">Email：hiroki_maekawa@directpicks.co.jp</h4>
                 </div>
 
 
